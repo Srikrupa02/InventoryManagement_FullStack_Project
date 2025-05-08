@@ -1,0 +1,169 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\HP\\Desktop\\FullStack Project\\inventory Project\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F20117C6-1E59-4248-91FF-3DDC16AA12B2}|inventory Project\\inventory Project.csproj|c:\\users\\hp\\desktop\\fullstack project\\inventory project\\inventory project\\models\\inventoryitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F20117C6-1E59-4248-91FF-3DDC16AA12B2}|inventory Project\\inventory Project.csproj|solutionrelative:inventory project\\models\\inventoryitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F20117C6-1E59-4248-91FF-3DDC16AA12B2}|inventory Project\\inventory Project.csproj|c:\\users\\hp\\desktop\\fullstack project\\inventory project\\inventory project\\controllers\\inventorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F20117C6-1E59-4248-91FF-3DDC16AA12B2}|inventory Project\\inventory Project.csproj|solutionrelative:inventory project\\controllers\\inventorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F20117C6-1E59-4248-91FF-3DDC16AA12B2}|inventory Project\\inventory Project.csproj|c:\\users\\hp\\desktop\\fullstack project\\inventory project\\inventory project\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F20117C6-1E59-4248-91FF-3DDC16AA12B2}|inventory Project\\inventory Project.csproj|solutionrelative:inventory project\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F20117C6-1E59-4248-91FF-3DDC16AA12B2}|inventory Project\\inventory Project.csproj|c:\\users\\hp\\desktop\\fullstack project\\inventory project\\inventory project\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F20117C6-1E59-4248-91FF-3DDC16AA12B2}|inventory Project\\inventory Project.csproj|solutionrelative:inventory project\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F20117C6-1E59-4248-91FF-3DDC16AA12B2}|inventory Project\\inventory Project.csproj|c:\\users\\hp\\desktop\\fullstack project\\inventory project\\inventory project\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F20117C6-1E59-4248-91FF-3DDC16AA12B2}|inventory Project\\inventory Project.csproj|solutionrelative:inventory project\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F20117C6-1E59-4248-91FF-3DDC16AA12B2}|inventory Project\\inventory Project.csproj|c:\\users\\hp\\desktop\\fullstack project\\inventory project\\inventory project\\migrations\\applicationdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F20117C6-1E59-4248-91FF-3DDC16AA12B2}|inventory Project\\inventory Project.csproj|solutionrelative:inventory project\\migrations\\applicationdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F20117C6-1E59-4248-91FF-3DDC16AA12B2}|inventory Project\\inventory Project.csproj|c:\\users\\hp\\desktop\\fullstack project\\inventory project\\inventory project\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{F20117C6-1E59-4248-91FF-3DDC16AA12B2}|inventory Project\\inventory Project.csproj|solutionrelative:inventory project\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F20117C6-1E59-4248-91FF-3DDC16AA12B2}|inventory Project\\inventory Project.csproj|c:\\users\\hp\\desktop\\fullstack project\\inventory project\\inventory project\\migrations\\20250507134039_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F20117C6-1E59-4248-91FF-3DDC16AA12B2}|inventory Project\\inventory Project.csproj|solutionrelative:inventory project\\migrations\\20250507134039_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F20117C6-1E59-4248-91FF-3DDC16AA12B2}|inventory Project\\inventory Project.csproj|c:\\users\\hp\\desktop\\fullstack project\\inventory project\\inventory project\\inventory project.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{F20117C6-1E59-4248-91FF-3DDC16AA12B2}|inventory Project\\inventory Project.csproj|solutionrelative:inventory project\\inventory project.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ApplicationDbContextModelSnapshot.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\FullStack Project\\inventory Project\\inventory Project\\Migrations\\ApplicationDbContextModelSnapshot.cs",
+              "RelativeDocumentMoniker": "inventory Project\\Migrations\\ApplicationDbContextModelSnapshot.cs",
+              "ToolTip": "C:\\Users\\HP\\Desktop\\FullStack Project\\inventory Project\\inventory Project\\Migrations\\ApplicationDbContextModelSnapshot.cs",
+              "RelativeToolTip": "inventory Project\\Migrations\\ApplicationDbContextModelSnapshot.cs",
+              "ViewState": "AgIAADUAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-07T14:04:31.011Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\FullStack Project\\inventory Project\\inventory Project\\Data\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "inventory Project\\Data\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\HP\\Desktop\\FullStack Project\\inventory Project\\inventory Project\\Data\\ApplicationDbContext.cs",
+              "RelativeToolTip": "inventory Project\\Data\\ApplicationDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-07T06:51:05.552Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "WeatherForecast.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\FullStack Project\\inventory Project\\inventory Project\\WeatherForecast.cs",
+              "RelativeDocumentMoniker": "inventory Project\\WeatherForecast.cs",
+              "ToolTip": "C:\\Users\\HP\\Desktop\\FullStack Project\\inventory Project\\inventory Project\\WeatherForecast.cs",
+              "RelativeToolTip": "inventory Project\\WeatherForecast.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-07T06:51:57.894Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "InventoryController.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\FullStack Project\\inventory Project\\inventory Project\\Controllers\\InventoryController.cs",
+              "RelativeDocumentMoniker": "inventory Project\\Controllers\\InventoryController.cs",
+              "ToolTip": "C:\\Users\\HP\\Desktop\\FullStack Project\\inventory Project\\inventory Project\\Controllers\\InventoryController.cs",
+              "RelativeToolTip": "inventory Project\\Controllers\\InventoryController.cs",
+              "ViewState": "AgIAADsAAAAAAAAAAAAuwEoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-07T06:59:26.926Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\FullStack Project\\inventory Project\\inventory Project\\Program.cs",
+              "RelativeDocumentMoniker": "inventory Project\\Program.cs",
+              "ToolTip": "C:\\Users\\HP\\Desktop\\FullStack Project\\inventory Project\\inventory Project\\Program.cs",
+              "RelativeToolTip": "inventory Project\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-07T06:51:59.526Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "InventoryItem.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\FullStack Project\\inventory Project\\inventory Project\\Models\\InventoryItem.cs",
+              "RelativeDocumentMoniker": "inventory Project\\Models\\InventoryItem.cs",
+              "ToolTip": "C:\\Users\\HP\\Desktop\\FullStack Project\\inventory Project\\inventory Project\\Models\\InventoryItem.cs",
+              "RelativeToolTip": "inventory Project\\Models\\InventoryItem.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAAAAoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-07T06:51:39.432Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\FullStack Project\\inventory Project\\inventory Project\\appsettings.json",
+              "RelativeDocumentMoniker": "inventory Project\\appsettings.json",
+              "ToolTip": "C:\\Users\\HP\\Desktop\\FullStack Project\\inventory Project\\inventory Project\\appsettings.json",
+              "RelativeToolTip": "inventory Project\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-05-07T06:51:53.784Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "20250507134039_InitialCreate.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\FullStack Project\\inventory Project\\inventory Project\\Migrations\\20250507134039_InitialCreate.cs",
+              "RelativeDocumentMoniker": "inventory Project\\Migrations\\20250507134039_InitialCreate.cs",
+              "ToolTip": "C:\\Users\\HP\\Desktop\\FullStack Project\\inventory Project\\inventory Project\\Migrations\\20250507134039_InitialCreate.cs",
+              "RelativeToolTip": "inventory Project\\Migrations\\20250507134039_InitialCreate.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-07T13:40:40.486Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "inventory Project.csproj",
+              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\FullStack Project\\inventory Project\\inventory Project\\inventory Project.csproj",
+              "RelativeDocumentMoniker": "inventory Project\\inventory Project.csproj",
+              "ToolTip": "C:\\Users\\HP\\Desktop\\FullStack Project\\inventory Project\\inventory Project\\inventory Project.csproj",
+              "RelativeToolTip": "inventory Project\\inventory Project.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-05-07T06:49:52.818Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
