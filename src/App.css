@@ -1,38 +1,183 @@
-.App {
-  text-align: center;
+/* Global Styles */
+body {
+  font-family: 'Arial', sans-serif;
+  background-color: #f9f9f9;
+  margin: 0;
+  padding: 0;
 }
 
-.App-logo {
-  height: 40vmin;
-  pointer-events: none;
+/* Main App Container */
+div {
+  max-width: 800px;
+  margin: auto;
+  padding: 20px;
+  background-color: #ffffff;
+  border-radius: 10px;
+  box-shadow: 0 4px 20px rgba(0, 0, 0, 0.1);
 }
 
-@media (prefers-reduced-motion: no-preference) {
-  .App-logo {
-    animation: App-logo-spin infinite 20s linear;
-  }
-}
-
-.App-header {
-  background-color: #282c34;
-  min-height: 100vh;
+/* Form Styling */
+form {
   display: flex;
   flex-direction: column;
-  align-items: center;
-  justify-content: center;
-  font-size: calc(10px + 2vmin);
+  gap: 15px;
+  padding: 20px;
+  background-color: #e7f3ff;
+  border-radius: 10px;
+  box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);
+  margin-bottom: 30px;
+}
+
+/* Input Fields */
+input[type='text'],
+input[type='number'] {
+  padding: 12px 15px;
+  font-size: 16px;
+  border-radius: 6px;
+  border: 1px solid #ccc;
+  background-color: #fff;
+  transition: border-color 0.3s, box-shadow 0.3s;
+}
+
+input[type='text']:focus,
+input[type='number']:focus {
+  border-color: #4a90e2;
+  box-shadow: 0 0 4px #4a90e2;
+  outline: none;
+}
+
+/* Add / Update Button */
+form button {
+  padding: 12px 20px;
+  font-size: 16px;
+  font-weight: bold;
+  border-radius: 6px;
+  background-color: #1976d2;
   color: white;
+  border: none;
+  cursor: pointer;
+  transition: background-color 0.3s ease;
 }
 
-.App-link {
-  color: #61dafb;
+form button:hover {
+  background-color: #1565c0;
 }
 
-@keyframes App-logo-spin {
-  from {
-    transform: rotate(0deg);
+/* Inventory List Styles */
+ul {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+}
+
+/* Inventory Header Styles - Left-Aligned */
+.inventory-header {
+  display: flex;
+  justify-content: flex-start; /* Align items to the left */
+  align-items: center;
+  background-color: #4a90e2;
+  color: white;
+  padding: 12px 10px; /* Reduced padding to move headings further left */
+  font-size: 16px;
+  font-weight: bold;
+  border-radius: 8px;
+  margin-bottom: 10px;
+}
+
+.inventory-header span {
+  flex: 1;
+  text-align: left; /* Ensure text aligns to the left */
+  padding-left: 5px; /* Reduced padding for better alignment */
+}
+
+/* Individual Inventory Item - Compact */
+li {
+  background: linear-gradient(to right, #c2e9fb, #a1c4fd);
+  padding: 10px 14px;
+  margin-bottom: 12px;
+  border-radius: 8px;
+  box-shadow: 0 2px 6px rgba(0, 0, 0, 0.08);
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  flex-wrap: wrap;
+}
+
+/* Item Text - Smaller Font */
+li span {
+  flex: 1;
+  font-size: 14px;
+  font-weight: 500;
+}
+
+/* Action Buttons container */
+li .action-buttons {
+  display: flex;
+  gap: 8px;
+}
+
+/* Edit Button - Smaller */
+li button:nth-of-type(1),
+li button:nth-of-type(2) {
+  padding: 6px 12px;
+  font-size: 13px;
+  border-radius: 5px;
+  min-width: 80px;
+}
+
+/* Edit Button Styling */
+li button:nth-of-type(1) {
+  background-color: white;
+  color: #2e7d32;
+  border: 1px solid #81c784;
+  transition: all 0.3s ease;
+}
+
+li button:nth-of-type(1):hover {
+  background-color: #e8f5e9;
+  border-color: #66bb6a;
+}
+
+/* Delete Button Styling */
+li button:nth-of-type(2) {
+  background-color: white;
+  color: #c62828;
+  border: 1px solid #ef9a9a;
+  transition: all 0.3s ease;
+}
+
+li button:nth-of-type(2):hover {
+  background-color: #ffebee;
+  border-color: #ef5350;
+}
+
+/* Responsive Design */
+@media (max-width: 768px) {
+  /* Form input fields */
+  input[type='text'],
+  input[type='number'] {
+    width: 100%;
   }
-  to {
-    transform: rotate(360deg);
+
+  /* Inventory Item */
+  li {
+    flex-direction: column;
+    padding: 10px;
+  }
+
+  li span {
+    margin-bottom: 10px;
+  }
+
+  /* Stack Action Buttons */
+  li .action-buttons {
+    flex-direction: column;
+    gap: 8px;
+  }
+
+  li .action-buttons button {
+    width: 100%;
+    font-size: 14px;
+    padding: 8px;
   }
 }
